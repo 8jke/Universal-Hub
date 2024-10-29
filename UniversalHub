@@ -10,14 +10,10 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
     local Main = Window:NewTab("Phenom")
     local MainSection = Main:NewSection("Phenom")
 
-MainSection:NewButton("Phenom", "Legend", function()
+MainSection:NewButton("Phenom", "KEY PhenomsAOldGame!Handles$%#2", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/sooptest55/main/Phenoms55"))()
 
 --KEY PhenomsAOldGame!Handles$%#2
-end)
-
-MainSection:NewButton("Phenom", "Legend", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/sooptest55/main/Phenoms55"))()
 end)
 
 MainSection:NewButton("no HL nojumpbot", "x", function()
