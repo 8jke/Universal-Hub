@@ -10,6 +10,10 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
     local Main = Window:NewTab("Phenom")
     local MainSection = Main:NewSection("Phenom")
 
+MainSection:NewButton("TBot", "T x click", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/j4AMWpEW'))()
+end)
+
 MainSection:NewButton("NoJump", "x click", function()
     loadstring(game:HttpGet('https://pastebin.com/raw/9ncKRB2D'))()
 end)
