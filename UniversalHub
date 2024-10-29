@@ -11,7 +11,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHept
     local MainSection = Main:NewSection("Phenom")
 
 MainSection:NewButton("Bounce", "jump x shoot", function()
-    loadstring(game:HttpGet('https://pastebin.com/zvYiW4SM'))()
+    loadstring(game:HttpGet('https://pastebin.com/raw/zvYiW4SM'))()
 end)
 
 MainSection:NewButton("Auto Score! (L)", "PEOPLE ARE SUCH L'S!!", function()
